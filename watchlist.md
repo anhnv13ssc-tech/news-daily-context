@@ -11,3 +11,12 @@ Muốn thêm/xoá mục: nói trực tiếp với Claude trong chat ("theo dõi 
 
 ## Đang theo dõi
 - Masan High-Tech Materials (MSR) (thêm 2026-09-25, hết hạn 2026-10-25)
+- Cargill (thêm 2026-09-25, hết hạn 2026-10-25)
+- Masan Group và hệ sinh thái (Masan Consumer, Masan MeatLife, WinCommerce/WinMart, Phúc Long, Masan High-Tech Materials, các công ty liên quan) (thêm 2026-09-25, hết hạn 2026-10-25)
+- DatVietVAC (thêm 2026-09-25, hết hạn 2026-10-25)
+- SCIC (Tổng công ty Đầu tư và Kinh doanh vốn Nhà nước) (thêm 2026-09-25, hết hạn 2026-10-25)
+- Bảo Tín Mạnh Hải (thêm 2026-09-25, hết hạn 2026-10-25)
+- BW Industrial (thêm 2026-09-25, hết hạn 2026-10-25)
+- Thadico (thêm 2026-09-25, hết hạn 2026-10-25)
+- Thaco (Trường Hải) (thêm 2026-09-25, hết hạn 2026-10-25)
+- Đại Quang Minh (thêm 2026-09-25, hết hạn 2026-10-25)
