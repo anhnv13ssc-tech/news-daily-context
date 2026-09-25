@@ -41,5 +41,8 @@
 - https://kinhtetaichinh.blogspot.com/
 - https://www.oaktreecapital.com/insights/memo/ (Howard Marks memos)
 
-## Loại trừ khỏi quét tự động
-Facebook, LinkedIn, YouTube, Substack, TikTok cá nhân — cần đăng nhập hoặc là nội dung cá nhân/lecture, không phù hợp quét tự động mỗi ngày.
+## LinkedIn (coi là kênh chính thống)
+- Bài đăng/company update từ tài khoản chính thức của tổ chức, lãnh đạo doanh nghiệp, quỹ đầu tư — quét như một nguồn tin bình thường, không gắn nhãn rumor.
+
+## Nguồn MXH — gắn nhãn "rumor" (đưa vào digest nhưng phải note rõ chưa xác thực)
+Facebook, YouTube, Substack, TikTok cá nhân — vẫn có thể quét nếu bắt được tin lớn, nhưng LUÔN gắn nhãn [RUMOR — chưa xác thực] trong digest và ưu tiên tìm nguồn chính thống xác nhận trước khi đưa vào phần tin chính.
